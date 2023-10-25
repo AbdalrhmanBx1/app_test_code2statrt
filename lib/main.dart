@@ -33,6 +33,7 @@ class myapp extends StatelessWidget {
               Icons.star,
               color: Colors.red,
             ),
+            Text("hello abdo "),
             Icon(
               Icons.star,
               color: Colors.red,
